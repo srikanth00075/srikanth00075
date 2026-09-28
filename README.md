@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Srikanth
-<p align="center">
-  <img src="https://github.com/srikanth00075.png" width="160" height="160" style="border-radius: 50%;" />
-</p>
 <h3 align="center">
   🚀 Aspiring Software Engineer | 🎓 CSE Student | 💻 Developer
 </h3>
