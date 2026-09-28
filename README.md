@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Srikanth
-
+<p align="center">
+  <img src="https://github.com/srikanth00075.png" width="160" height="160" style="border-radius: 50%;" />
+</p>
 <h3 align="center">
   🚀 Aspiring Software Engineer | 🎓 CSE Student | 💻 Developer
 </h3>
@@ -109,8 +111,4 @@
 ☐ Build a strong developer portfolio
 ☐ Become a professional Software Engineer
 
-<p align="center">
-  <a href="https://github.com/srikanth00075">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+
