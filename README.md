@@ -26,7 +26,7 @@
 
 🎯 My goal is to become a **Software Engineer**
 
-📦 Dream Destination: **Amazon**
+
 
 ⚡ Fun fact: **I'm always learning something new!**
 
