@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Srikanth
 
-<p align="center">
-  <img src="./profile.jpg" width="180">
-</p>
+
 <h3 align="center">
   🚀 Aspiring Software Engineer | 🎓 CSE Student | 💻 Developer
 </h3>
